@@ -1,9 +1,10 @@
 def new_hash
-
+  my_hash = {}
 end
 
 def actor
-
+  # :name => "Dwayne The Rock Johnson"
+  actor[:name]
 end
 
 def monopoly
